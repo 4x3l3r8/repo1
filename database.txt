@@ -1,0 +1,5 @@
+
+CREATE DATABASE `adac`
+
+
+CREATE TABLE `adac`.`strict` ( `id` INT(11) NOT NULL AUTO_INCREMENT , `name` VARCHAR(500) NOT NULL , `comments` TEXT NOT NULL , `date` VARCHAR(150) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;

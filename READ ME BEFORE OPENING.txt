@@ -1,0 +1,13 @@
+THIS DOCUMENT WILL GUIDE YOU THROUGH VIEWING THIS PORTFOLIO PROPERLY
+
+1. INSTALL XAMPP ON YOUR COMPUTER
+ a. double-click on the xampp installer in the folder
+ b. follow the prompt to get xampp installed
+ c. launch the xampp control panel and start apache and MySql
+ d. open your browser( preferably chrome or firefox) and type localhost in the address bar. If the xampp homepage appears      then xamp is successfully installed.
+2. Click on PhpMyAdmin on the upper right corner
+3. click SQL and paste the code in 'database.txt' inside the text space and click save.
+4. Copy the whole 'adac' folder into htdocs folder in the xampp folder.
+5. Now go to your browser and input 'localhost/adac'
+	If everything is done right, you should be viewing the adac portfolio without errors
+		GOODLUCK!!!!!!
